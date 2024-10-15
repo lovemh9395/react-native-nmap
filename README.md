@@ -1,6 +1,14 @@
 react-native-naver-map [![npm version](https://badge.fury.io/js/react-native-nmap.svg)](https://badge.fury.io/js/react-native-nmap)
 -----
 
+## 참고사항
+```
+리액트 네이티브 0.75.3 버전에서 사용하려고 수정한 버전입니다.
+다른 버전에서는 테스트 해보지는 못했습니다.
+NMapsMap/NMGLatLng.h 오류가 나시는 분,
+빌드 후 topClick 이슈가 나오는 분은 사용해보시면 좋을 것 같습니다.
+```
+
 네이버맵의 리액트 네이티브 브릿지입니다.
 
 ![](https://raw.githubusercontent.com/QuadFlask/react-native-naver-map/master/example/screenshot/screenshot.png)
